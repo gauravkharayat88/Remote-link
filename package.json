@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.0.3",
+    "react-dom": "^18.1.0",
+    "router": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
